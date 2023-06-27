@@ -1,0 +1,177 @@
+h1 {
+    margin: auto;
+    text-align:center;
+    background-color: green;
+    width: 25%;
+    padding: 10px;
+    
+    
+    }
+    
+    .P1 {
+        border: groove 1em green;
+        border-radius: 2em;
+        position: center;
+        font-size: 20px;   
+    }
+    
+    .P2 {
+    
+        position: right;
+        font-size: 25px;
+        
+            
+        }
+    
+    .IMAGE1 {
+    float: left;
+    padding:10px ;
+    
+    }
+    
+    h2 {
+        text-align: center;
+        font-size: 40px;
+    }
+    
+    img {
+    
+    width: 270px;
+    height: 180px;
+    
+    }
+
+     .destinations li {
+    display: inline;
+    padding-right: 223px;
+    background-color: lightgreen;
+    font-size: 16px;
+    }
+
+    .IMAGE2 {
+        width: 150px;
+        height: 100px;
+        position: left;
+    }
+  p {
+   font-size:25px;
+   
+  }
+
+ .Description {
+font-size:25px;
+  }
+
+  .P3 {
+    text-align:left;
+    font-size:25px;
+
+
+  }
+
+  .IMAGE3 {
+float: left;
+  }
+
+  .IMAGE4 {
+    width: 150px;
+    height: 100px;
+    position: left;
+    
+
+    }
+
+    .Information {
+        font-size:25px;
+    }
+
+    .IMAGE5 {
+    float: left;
+    }
+
+
+    .P4 {
+     text-align:left;
+     font-size: 25px;
+    }
+
+    .IMAGE6 {
+        width: 150px;
+        height: 100px;
+        position: left;
+    }
+
+    h3  {
+    margin: auto;
+    text-align:center;
+    background-color: green;
+    width: 15%;
+    padding: 10px;
+    border: groove 1em green;
+    border-radius: 2em;
+    position: center; 
+    font-family: fantasy;
+
+    }
+
+    .IMAGE7 {
+        width: 250px;
+        height: 180px;
+        position: left;
+        float: left;
+
+    
+    }
+
+    .P5 {
+        text-align:left;
+        font-size: 25px;
+    }
+
+    .IMAGE8 {
+        width: 150px;
+        height: 100px;
+        position: left;
+
+    }
+        
+    .Information-2 {
+        font-size:25px;
+    }
+
+    .IMAGE9 {
+        float: left;
+          }
+
+          .P6 {
+            text-align:left;
+            font-size:25px;
+          }
+
+          .IMAGE10 {
+            width: 200px;
+            height: 100px;
+            position: top;
+            
+            
+          }
+
+          .Information-3 {
+            font-size: 25px;
+          }
+
+          h4 {
+          font-size: 25px;
+          text-align: center;
+          }
+          
+          li {
+            display: inline;
+            padding-right: 20px;
+            background-color: lightgreen;
+            font-size: 16.5px; 
+          }
+
+    
+        
+
